@@ -1,0 +1,2 @@
+[pytest11]
+nice = pytest_nice

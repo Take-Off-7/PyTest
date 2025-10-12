@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: pytest-slower
+Version: 0.1.0
+Summary: A pytest plugin to check and compare test duration
+Home-page: https://github.com/Take-Off-7/PyTest
+Author: TakeOff
+Author-email: tfakeye7@gmail.com
+License: proprietary
+License-File: LICENCE
+Requires-Dist: pytest
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
